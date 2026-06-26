@@ -1,0 +1,47 @@
+{
+  "checkpoint_path": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\35f5392a9fd4f964\\best_model.pth",
+  "saved_epoch": 36,
+  "loss_keys": [
+    "D_L_high",
+    "D_L_low",
+    "D_R",
+    "D_total",
+    "G_L",
+    "G_R",
+    "G_total",
+    "cross_recon",
+    "cycle",
+    "illum_match",
+    "illum_prior",
+    "recon"
+  ],
+  "metric_keys": [
+    "psnr",
+    "score",
+    "ssim"
+  ],
+  "history_epoch_count": 36,
+  "best_metric_info": {
+    "epoch": 36,
+    "psnr": 21.102428555488586,
+    "ssim": 0.822004616856575,
+    "score": 29.322474724054338
+  },
+  "model_state_dict_keys": [
+    "Decom_net_state_dict",
+    "L2H_net_state_dict",
+    "H2L_net_state_dict",
+    "Denoise_net_state_dict"
+  ],
+  "optimizer_state_dict_keys": [],
+  "all_checkpoint_keys": [
+    "Decom_net_state_dict",
+    "Denoise_net_state_dict",
+    "H2L_net_state_dict",
+    "L2H_net_state_dict",
+    "best_metric_info",
+    "epoch",
+    "loss_history",
+    "metric_history"
+  ]
+}

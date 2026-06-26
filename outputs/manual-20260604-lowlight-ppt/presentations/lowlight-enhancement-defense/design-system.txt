@@ -1,0 +1,5 @@
+slide size: 1280x720
+palette: dark navy cover, white content panels, teal for Retinex/reflectance, orange for illumination, blue for engineering/system modules, red for adversarial/evaluation emphasis
+typography: Microsoft YaHei UI for Chinese readability; title 34-44px, body 15-20px, labels 10-13px
+visual system: editable panels, flow nodes, concise labels, local project imagery only
+banned motifs: decorative blobs, fake logos, crowded paragraphs

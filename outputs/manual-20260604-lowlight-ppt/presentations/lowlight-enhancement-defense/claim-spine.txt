@@ -1,0 +1,10 @@
+thesis: The project implements a complete low-light enhancement system by combining Retinex decomposition, learned illumination enhancement, reflectance denoising, and a desktop application workflow.
+audience: undergraduate thesis defense committee
+one-line arc: establish the low-light problem, explain the model split, show the application framework, then close with training strategy and practical outcomes.
+slides:
+1. The project targets visible, usable enhancement for weak-light images.
+2. The technical route combines physical prior and deep learning modules.
+3. The software framework separates client interaction from model service.
+4. The key algorithm enhances illumination and denoises reflectance before reconstruction.
+5. Multi-loss training stabilizes brightness, structure, and realism.
+6. The final system forms a complete training-to-demo loop within five minutes.

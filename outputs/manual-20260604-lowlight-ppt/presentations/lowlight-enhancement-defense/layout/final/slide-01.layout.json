@@ -1,0 +1,1041 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6zup3x",
+    "id": "6zup3x",
+    "slide": 1,
+    "layoutId": "e8db9022-75a8-4ebf-b7a6-f325a6760d95",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "7339bed1-4024-48ca-9393-095b2fe22232",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei UI"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "e8db9022-75a8-4ebf-b7a6-f325a6760d95",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "7339bed1-4024-48ca-9393-095b2fe22232",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "7339bed1-4024-48ca-9393-095b2fe22232",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0D1B2A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0D1B2A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "4",
+      "bbox": [
+        70,
+        56,
+        4,
+        88
+      ],
+      "geometry": "rect",
+      "fillColor": "#F28C28",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "5",
+      "bbox": [
+        90,
+        54,
+        560,
+        72
+      ],
+      "geometry": "rect",
+      "text": "低照度图像增强系统",
+      "textPreview": "低照度图像增强系统",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 44,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "低照度图像增强系统"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "低照度图像增强系统",
+          "resolvedTextStyle": {
+            "fontSize": 44,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "低照度图像增强系统",
+              "fontSize": 44,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "6",
+      "bbox": [
+        92,
+        126,
+        540,
+        34
+      ],
+      "geometry": "rect",
+      "text": "基于 Retinex 分解与深度学习的设计与实现",
+      "textPreview": "基于 Retinex 分解与深度学习的设计与实现",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#D7E5F0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "基于 Retinex 分解与深度学习的设计与实现"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "基于 Retinex 分解与深度学习的设计与实现",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#D7E5F0",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "基于 Retinex 分解与深度学习的设计与实现",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#D7E5F0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "7",
+      "bbox": [
+        92,
+        178,
+        540,
+        28
+      ],
+      "geometry": "rect",
+      "text": "5分钟答辩版 | 主要技术、功能框架、关键算法流程",
+      "textPreview": "5分钟答辩版 | 主要技术、功能框架、关键算法流程",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#9FB7C8",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5分钟答辩版 | 主要技术、功能框架、关键算法流程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5分钟答辩版 | 主要技术、功能框架、关键算法流程",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#9FB7C8",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5分钟答辩版 | 主要技术、功能框架、关键算法流程",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#9FB7C8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "8",
+      "bbox": [
+        92,
+        236,
+        108,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#0F2A36",
+      "lineColor": "#2AAE9F",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "9",
+      "bbox": [
+        104,
+        241,
+        84,
+        18
+      ],
+      "geometry": "rect",
+      "text": "PyTorch",
+      "textPreview": "PyTorch",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#2AAE9F",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PyTorch"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PyTorch",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#2AAE9F",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PyTorch",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#2AAE9F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "10",
+      "bbox": [
+        214,
+        236,
+        112,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#2C2518",
+      "lineColor": "#F28C28",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32lszqtc",
+      "id": "11",
+      "bbox": [
+        226,
+        241,
+        88,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Retinex",
+      "textPreview": "Retinex",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#F28C28",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Retinex"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Retinex",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#F28C28",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Retinex",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "12",
+      "bbox": [
+        340,
+        236,
+        150,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#102640",
+      "lineColor": "#9FC8FF",
+      "lineWidth": 1.4
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l87ed8ba",
+      "id": "13",
+      "bbox": [
+        352,
+        241,
+        126,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Flask + PyQt5",
+      "textPreview": "Flask + PyQt5",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#9FC8FF",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Flask + PyQt5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Flask + PyQt5",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#9FC8FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Flask + PyQt5",
+              "fontSize": 11,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#9FC8FF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/at47y1kr",
+      "id": "14",
+      "bbox": [
+        92,
+        312,
+        160,
+        28
+      ],
+      "geometry": "rect",
+      "text": "项目目标",
+      "textPreview": "项目目标",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "项目目标"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "项目目标",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "项目目标",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ex0nuxc",
+      "id": "15",
+      "bbox": [
+        92,
+        352,
+        520,
+        90
+      ],
+      "geometry": "rect",
+      "text": "把夜间、弱光和逆光图像中的暗部信息恢复出来，同时抑制亮度增强带来的噪声放大，并封装成可交互的桌面应用。",
+      "textPreview": "把夜间、弱光和逆光图像中的暗部信息恢复出来，同时抑制亮度增强带来的噪声放大，并封装成可交互的桌面应用。",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#DCE8F2",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把夜间、弱光和逆光图像中的暗部信息恢复出来，同时抑制亮"
+          },
+          {
+            "index": 2,
+            "text": "度增强带来的噪声放大，并封装成可交互的桌面应用。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把夜间、弱光和逆光图像中的暗部信息恢复出来，同时抑制亮度增强带来的噪声放大，并封装成可交互的桌面应用。",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#DCE8F2",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "把夜间、弱光和逆光图像中的暗部信息恢复出来，同时抑制亮度增强带来的噪声放大，并封装成可交互的桌面应用。",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#DCE8F2"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vahoza1g",
+      "id": "16",
+      "bbox": [
+        690,
+        92,
+        230,
+        300
+      ],
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "20c57f79-b51b-4d2b-bb1a-e7daa81020dc",
+        "contentType": "image/jpeg",
+        "byteLength": 21606
+      }
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6tovahoz",
+      "id": "17",
+      "bbox": [
+        940,
+        92,
+        230,
+        300
+      ],
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "e56d2136-10f0-47e2-9f54-f4fa8ad3cb2c",
+        "contentType": "image/jpeg",
+        "byteLength": 24152
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex0nuxc3",
+      "id": "18",
+      "bbox": [
+        690,
+        410,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "输入：低照度图像",
+      "textPreview": "输入：低照度图像",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#C9D8E5",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "输入：低照度图像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "输入：低照度图像",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#C9D8E5",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "输入：低照度图像",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#C9D8E5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3itgfmlk",
+      "id": "19",
+      "bbox": [
+        940,
+        410,
+        230,
+        24
+      ],
+      "geometry": "rect",
+      "text": "输出：增强图像",
+      "textPreview": "输出：增强图像",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#C9D8E5",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "输出：增强图像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "输出：增强图像",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#C9D8E5",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "输出：增强图像",
+              "fontSize": 14,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#C9D8E5"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vahoza1g",
+      "id": "20",
+      "bbox": [
+        918,
+        212,
+        18,
+        42
+      ],
+      "geometry": "rect",
+      "text": "→",
+      "textPreview": "→",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#F28C28",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "→"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "→",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#F28C28",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "→",
+              "fontSize": 28,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#F28C28",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tovahoz",
+      "id": "21",
+      "bbox": [
+        92,
+        596,
+        1080,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#355267",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg7adsji",
+      "id": "22",
+      "bbox": [
+        92,
+        620,
+        980,
+        24
+      ],
+      "geometry": "rect",
+      "text": "汇报路径：问题背景  →  技术路线  →  系统框架  →  算法流程  →  训练优化  →  总结展望",
+      "textPreview": "汇报路径：问题背景  →  技术路线  →  系统框架  →  算法流程  →  训练优化  →  总结展望",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 15,
+        "typeface": "Microsoft YaHei UI",
+        "color": "#C7D7E6",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "汇报路径：问题背景  →  技术路线  →  系统框架  →  算法流程  →  训练优化  →  总结展望"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "汇报路径：问题背景  →  技术路线  →  系统框架  →  算法流程  →  训练优化  →  总结展望",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft YaHei UI",
+            "color": "#C7D7E6",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "汇报路径：问题背景  →  技术路线  →  系统框架  →  算法流程  →  训练优化  →  总结展望",
+              "fontSize": 15,
+              "typeface": "Microsoft YaHei UI",
+              "color": "#C7D7E6"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
