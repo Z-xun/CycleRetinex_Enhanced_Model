@@ -1,6 +1,0 @@
-task mode: create
-primary deck-profile: engineering-platform
-required proof objects: technical route, system framework, algorithm workflow, training and evaluation summary
-source/asset requirements: local project files and generated/result images in the workspace
-profile gates: diagrams use concrete module names and readable technical labels; claims point to visible workflow elements
-known missing inputs: no school template or required branding was provided
